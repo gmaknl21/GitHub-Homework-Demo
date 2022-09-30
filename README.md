@@ -1,4 +1,4 @@
-# Class6-Homework-Demo
+# GitHub-Homework-Demo
 
 
 ### Question 1:
